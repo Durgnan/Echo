@@ -1,0 +1,225 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/durgesh/Desktop/res/Echo/app/src/main/AndroidManifest.xml:2:1-47:12
+INJECTED from /home/durgesh/Desktop/res/Echo/app/src/main/AndroidManifest.xml:2:1-47:12
+INJECTED from /home/durgesh/Desktop/res/Echo/app/src/main/AndroidManifest.xml:2:1-47:12
+INJECTED from /home/durgesh/Desktop/res/Echo/app/src/main/AndroidManifest.xml:2:1-47:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/durgesh/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/b6fa0a1b612afefdf8a0fb3abe4efd9a/AndroidManifest.xml:2:1-11:12
+MERGED from [com.cleveroad:audiovisualization:1.0.0] /home/durgesh/.gradle/caches/transforms-1/files-1.1/audiovisualization-1.0.0.aar/0f489d0c1b31b1782a97813a36e9ab1b/AndroidManifest.xml:2:1-12:12
+MERGED from [com.android.support:design:28.0.0] /home/durgesh/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/0008ba1345a5a898fb84bd9d56008fd2/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/durgesh/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/4b134c7125658d83895929303d167f8e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:28.0.0] /home/durgesh/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0.aar/e680f42381a3feaafb2e610bb946d570/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] /home/durgesh/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/3bf0d6c6f456ff39e411f258aae9e122/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /home/durgesh/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0.aar/20a8508df055a9bec981b6ced9705205/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/durgesh/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/073edf3fe19ac2d95a66b6c594ca7f28/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/durgesh/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/5d592c5760afa6248900611a062ebd05/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/durgesh/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/c859e3e7b235e9167d31b56630a09011/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:28.0.0] /home/durgesh/.gradle/caches/transforms-1/files-1.1/transition-28.0.0.aar/b67422161111376a79621c4978f25faf/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /home/durgesh/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/8d03738c3b28f67bcb01a74721f4019a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /home/durgesh/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/4bb9233d4562048d772fb457670f7120/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/durgesh/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/f0f6e96969590d75a7d8c782234c24f5/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/durgesh/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/d34f98589251de6229e3b94c50ffe59c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/durgesh/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/bb5ce75d17e859dcf4c82a34d389c050/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /home/durgesh/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/8b57528c3f47690016d8d658bc079ac8/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/durgesh/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/886d2cc4f5b179d3059a158978f24b68/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/durgesh/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/f025ba7db48c7c95b5dbc9a853a337ec/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/durgesh/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/94caf290da6da3fe04a1ccd68679feb6/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /home/durgesh/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/636d4f746b85701c24f135393458c05b/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/durgesh/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/37b39aeaf77f2c998e26db74edef82b6/AndroidManifest.xml:17:1-25:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/durgesh/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/18a444cef304a85d509f520795882d22/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /home/durgesh/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/3aa931383f7cfb52d989be74061991e6/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/durgesh/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/d8144a9ec7df329590cd4ea59053549c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /home/durgesh/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/337d25f833f57c09340badb5968fe83b/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/durgesh/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/77388382bfc3b0652c47203e72ce0ff3/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /home/durgesh/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/07ccbb0938fc6d321d193063402e8264/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/durgesh/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/fae01983532c5e28df4395037003a09b/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/durgesh/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/16584e373987dc69300b960b40b6e8e4/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/durgesh/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/2f1b986c856e268a833b0c32e9718227/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /home/durgesh/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/25e216e5190d64dfe2e886adca2b666a/AndroidManifest.xml:17:1-22:12
+INJECTED from /home/durgesh/Desktop/res/Echo/app/src/main/AndroidManifest.xml:2:1-47:12
+INJECTED from /home/durgesh/Desktop/res/Echo/app/src/main/AndroidManifest.xml:2:1-47:12
+INJECTED from /home/durgesh/Desktop/res/Echo/app/src/main/AndroidManifest.xml:2:1-47:12
+	package
+		ADDED from /home/durgesh/Desktop/res/Echo/app/src/main/AndroidManifest.xml:3:5-40
+		INJECTED from /home/durgesh/Desktop/res/Echo/app/src/main/AndroidManifest.xml
+		INJECTED from /home/durgesh/Desktop/res/Echo/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/durgesh/Desktop/res/Echo/app/src/main/AndroidManifest.xml
+		ADDED from /home/durgesh/Desktop/res/Echo/app/src/main/AndroidManifest.xml:2:1-47:12
+		INJECTED from /home/durgesh/Desktop/res/Echo/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/durgesh/Desktop/res/Echo/app/src/main/AndroidManifest.xml
+		ADDED from /home/durgesh/Desktop/res/Echo/app/src/main/AndroidManifest.xml:2:1-47:12
+		INJECTED from /home/durgesh/Desktop/res/Echo/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/durgesh/Desktop/res/Echo/app/src/main/AndroidManifest.xml:2:11-69
+uses-feature#0x00020000
+ADDED from /home/durgesh/Desktop/res/Echo/app/src/main/AndroidManifest.xml:5:5-7:35
+	android:glEsVersion
+		ADDED from /home/durgesh/Desktop/res/Echo/app/src/main/AndroidManifest.xml:6:9-41
+	android:required
+		ADDED from /home/durgesh/Desktop/res/Echo/app/src/main/AndroidManifest.xml:7:9-32
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /home/durgesh/Desktop/res/Echo/app/src/main/AndroidManifest.xml:9:5-80
+	android:name
+		ADDED from /home/durgesh/Desktop/res/Echo/app/src/main/AndroidManifest.xml:9:22-77
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from /home/durgesh/Desktop/res/Echo/app/src/main/AndroidManifest.xml:10:5-71
+	android:name
+		ADDED from /home/durgesh/Desktop/res/Echo/app/src/main/AndroidManifest.xml:10:22-68
+uses-permission#android.permission.MODIFY_AUDIO_SETTINGS
+ADDED from /home/durgesh/Desktop/res/Echo/app/src/main/AndroidManifest.xml:11:5-80
+	android:name
+		ADDED from /home/durgesh/Desktop/res/Echo/app/src/main/AndroidManifest.xml:11:22-77
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from /home/durgesh/Desktop/res/Echo/app/src/main/AndroidManifest.xml:12:5-75
+	android:name
+		ADDED from /home/durgesh/Desktop/res/Echo/app/src/main/AndroidManifest.xml:12:22-72
+uses-permission#android.permission.PROCESS_OUTGOING_CALLS
+ADDED from /home/durgesh/Desktop/res/Echo/app/src/main/AndroidManifest.xml:13:5-81
+	android:name
+		ADDED from /home/durgesh/Desktop/res/Echo/app/src/main/AndroidManifest.xml:13:22-78
+application
+ADDED from /home/durgesh/Desktop/res/Echo/app/src/main/AndroidManifest.xml:15:5-45:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/durgesh/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/b6fa0a1b612afefdf8a0fb3abe4efd9a/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/durgesh/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/b6fa0a1b612afefdf8a0fb3abe4efd9a/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:design:28.0.0] /home/durgesh/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/0008ba1345a5a898fb84bd9d56008fd2/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0] /home/durgesh/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/0008ba1345a5a898fb84bd9d56008fd2/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-compat:28.0.0] /home/durgesh/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/636d4f746b85701c24f135393458c05b/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /home/durgesh/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/636d4f746b85701c24f135393458c05b/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/durgesh/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/37b39aeaf77f2c998e26db74edef82b6/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/durgesh/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/37b39aeaf77f2c998e26db74edef82b6/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /home/durgesh/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/636d4f746b85701c24f135393458c05b/AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from /home/durgesh/Desktop/res/Echo/app/src/main/AndroidManifest.xml:20:9-35
+	android:label
+		ADDED from /home/durgesh/Desktop/res/Echo/app/src/main/AndroidManifest.xml:18:9-41
+	android:roundIcon
+		ADDED from /home/durgesh/Desktop/res/Echo/app/src/main/AndroidManifest.xml:19:9-48
+	android:icon
+		ADDED from /home/durgesh/Desktop/res/Echo/app/src/main/AndroidManifest.xml:17:9-43
+	android:allowBackup
+		ADDED from /home/durgesh/Desktop/res/Echo/app/src/main/AndroidManifest.xml:16:9-35
+	android:theme
+		ADDED from /home/durgesh/Desktop/res/Echo/app/src/main/AndroidManifest.xml:21:9-40
+activity#internshala.com.echomusik.activties.SplashActivty
+ADDED from /home/durgesh/Desktop/res/Echo/app/src/main/AndroidManifest.xml:22:9-32:20
+	android:screenOrientation
+		ADDED from /home/durgesh/Desktop/res/Echo/app/src/main/AndroidManifest.xml:25:13-49
+	android:label
+		ADDED from /home/durgesh/Desktop/res/Echo/app/src/main/AndroidManifest.xml:24:13-45
+	android:theme
+		ADDED from /home/durgesh/Desktop/res/Echo/app/src/main/AndroidManifest.xml:26:13-56
+	android:name
+		ADDED from /home/durgesh/Desktop/res/Echo/app/src/main/AndroidManifest.xml:23:13-52
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/durgesh/Desktop/res/Echo/app/src/main/AndroidManifest.xml:27:13-31:29
+action#android.intent.action.MAIN
+ADDED from /home/durgesh/Desktop/res/Echo/app/src/main/AndroidManifest.xml:28:17-69
+	android:name
+		ADDED from /home/durgesh/Desktop/res/Echo/app/src/main/AndroidManifest.xml:28:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/durgesh/Desktop/res/Echo/app/src/main/AndroidManifest.xml:30:17-77
+	android:name
+		ADDED from /home/durgesh/Desktop/res/Echo/app/src/main/AndroidManifest.xml:30:27-74
+activity#internshala.com.echomusik.activties.MainActivity
+ADDED from /home/durgesh/Desktop/res/Echo/app/src/main/AndroidManifest.xml:33:9-36:59
+	android:screenOrientation
+		ADDED from /home/durgesh/Desktop/res/Echo/app/src/main/AndroidManifest.xml:35:13-49
+	android:theme
+		ADDED from /home/durgesh/Desktop/res/Echo/app/src/main/AndroidManifest.xml:36:13-56
+	android:name
+		ADDED from /home/durgesh/Desktop/res/Echo/app/src/main/AndroidManifest.xml:34:13-51
+receiver#internshala.com.echomusik.utils.CaptureBroadcast
+ADDED from /home/durgesh/Desktop/res/Echo/app/src/main/AndroidManifest.xml:38:9-43:20
+	android:name
+		ADDED from /home/durgesh/Desktop/res/Echo/app/src/main/AndroidManifest.xml:38:19-57
+intent-filter#action:name:android.intent.action.NEW_OUTGOING_CALL+action:name:android.intent.action.PHONE_STATE
+ADDED from /home/durgesh/Desktop/res/Echo/app/src/main/AndroidManifest.xml:39:13-42:29
+action#android.intent.action.PHONE_STATE
+ADDED from /home/durgesh/Desktop/res/Echo/app/src/main/AndroidManifest.xml:40:17-76
+	android:name
+		ADDED from /home/durgesh/Desktop/res/Echo/app/src/main/AndroidManifest.xml:40:25-73
+action#android.intent.action.NEW_OUTGOING_CALL
+ADDED from /home/durgesh/Desktop/res/Echo/app/src/main/AndroidManifest.xml:41:17-82
+	android:name
+		ADDED from /home/durgesh/Desktop/res/Echo/app/src/main/AndroidManifest.xml:41:25-79
+uses-sdk
+INJECTED from /home/durgesh/Desktop/res/Echo/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/durgesh/Desktop/res/Echo/app/src/main/AndroidManifest.xml
+INJECTED from /home/durgesh/Desktop/res/Echo/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/durgesh/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/b6fa0a1b612afefdf8a0fb3abe4efd9a/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/durgesh/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/b6fa0a1b612afefdf8a0fb3abe4efd9a/AndroidManifest.xml:5:5-7:41
+MERGED from [com.cleveroad:audiovisualization:1.0.0] /home/durgesh/.gradle/caches/transforms-1/files-1.1/audiovisualization-1.0.0.aar/0f489d0c1b31b1782a97813a36e9ab1b/AndroidManifest.xml:8:5-10:41
+MERGED from [com.cleveroad:audiovisualization:1.0.0] /home/durgesh/.gradle/caches/transforms-1/files-1.1/audiovisualization-1.0.0.aar/0f489d0c1b31b1782a97813a36e9ab1b/AndroidManifest.xml:8:5-10:41
+MERGED from [com.android.support:design:28.0.0] /home/durgesh/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/0008ba1345a5a898fb84bd9d56008fd2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] /home/durgesh/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/0008ba1345a5a898fb84bd9d56008fd2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/durgesh/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/4b134c7125658d83895929303d167f8e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/durgesh/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/4b134c7125658d83895929303d167f8e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] /home/durgesh/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0.aar/e680f42381a3feaafb2e610bb946d570/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] /home/durgesh/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0.aar/e680f42381a3feaafb2e610bb946d570/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /home/durgesh/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/3bf0d6c6f456ff39e411f258aae9e122/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /home/durgesh/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/3bf0d6c6f456ff39e411f258aae9e122/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /home/durgesh/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0.aar/20a8508df055a9bec981b6ced9705205/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /home/durgesh/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0.aar/20a8508df055a9bec981b6ced9705205/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/durgesh/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/073edf3fe19ac2d95a66b6c594ca7f28/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/durgesh/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/073edf3fe19ac2d95a66b6c594ca7f28/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/durgesh/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/5d592c5760afa6248900611a062ebd05/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/durgesh/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/5d592c5760afa6248900611a062ebd05/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/durgesh/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/c859e3e7b235e9167d31b56630a09011/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/durgesh/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/c859e3e7b235e9167d31b56630a09011/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] /home/durgesh/.gradle/caches/transforms-1/files-1.1/transition-28.0.0.aar/b67422161111376a79621c4978f25faf/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] /home/durgesh/.gradle/caches/transforms-1/files-1.1/transition-28.0.0.aar/b67422161111376a79621c4978f25faf/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /home/durgesh/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/8d03738c3b28f67bcb01a74721f4019a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /home/durgesh/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/8d03738c3b28f67bcb01a74721f4019a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /home/durgesh/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/4bb9233d4562048d772fb457670f7120/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /home/durgesh/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/4bb9233d4562048d772fb457670f7120/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/durgesh/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/f0f6e96969590d75a7d8c782234c24f5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/durgesh/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/f0f6e96969590d75a7d8c782234c24f5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/durgesh/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/d34f98589251de6229e3b94c50ffe59c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/durgesh/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/d34f98589251de6229e3b94c50ffe59c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/durgesh/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/bb5ce75d17e859dcf4c82a34d389c050/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/durgesh/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/bb5ce75d17e859dcf4c82a34d389c050/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /home/durgesh/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/8b57528c3f47690016d8d658bc079ac8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /home/durgesh/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/8b57528c3f47690016d8d658bc079ac8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/durgesh/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/886d2cc4f5b179d3059a158978f24b68/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/durgesh/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/886d2cc4f5b179d3059a158978f24b68/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/durgesh/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/f025ba7db48c7c95b5dbc9a853a337ec/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/durgesh/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/f025ba7db48c7c95b5dbc9a853a337ec/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/durgesh/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/94caf290da6da3fe04a1ccd68679feb6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/durgesh/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/94caf290da6da3fe04a1ccd68679feb6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /home/durgesh/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/636d4f746b85701c24f135393458c05b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /home/durgesh/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/636d4f746b85701c24f135393458c05b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/durgesh/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/37b39aeaf77f2c998e26db74edef82b6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/durgesh/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/37b39aeaf77f2c998e26db74edef82b6/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/durgesh/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/18a444cef304a85d509f520795882d22/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/durgesh/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/18a444cef304a85d509f520795882d22/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /home/durgesh/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/3aa931383f7cfb52d989be74061991e6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /home/durgesh/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/3aa931383f7cfb52d989be74061991e6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/durgesh/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/d8144a9ec7df329590cd4ea59053549c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/durgesh/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/d8144a9ec7df329590cd4ea59053549c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /home/durgesh/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/337d25f833f57c09340badb5968fe83b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /home/durgesh/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/337d25f833f57c09340badb5968fe83b/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/durgesh/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/77388382bfc3b0652c47203e72ce0ff3/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/durgesh/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/77388382bfc3b0652c47203e72ce0ff3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /home/durgesh/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/07ccbb0938fc6d321d193063402e8264/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /home/durgesh/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/07ccbb0938fc6d321d193063402e8264/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/durgesh/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/fae01983532c5e28df4395037003a09b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/durgesh/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/fae01983532c5e28df4395037003a09b/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/durgesh/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/16584e373987dc69300b960b40b6e8e4/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/durgesh/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/16584e373987dc69300b960b40b6e8e4/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/durgesh/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/2f1b986c856e268a833b0c32e9718227/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/durgesh/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/2f1b986c856e268a833b0c32e9718227/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /home/durgesh/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/25e216e5190d64dfe2e886adca2b666a/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /home/durgesh/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/25e216e5190d64dfe2e886adca2b666a/AndroidManifest.xml:20:5-44
+INJECTED from /home/durgesh/Desktop/res/Echo/app/src/main/AndroidManifest.xml
+INJECTED from /home/durgesh/Desktop/res/Echo/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/durgesh/Desktop/res/Echo/app/src/main/AndroidManifest.xml
+		ADDED from /home/durgesh/Desktop/res/Echo/app/src/main/AndroidManifest.xml
+		INJECTED from /home/durgesh/Desktop/res/Echo/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/durgesh/Desktop/res/Echo/app/src/main/AndroidManifest.xml
+		ADDED from /home/durgesh/Desktop/res/Echo/app/src/main/AndroidManifest.xml
+		INJECTED from /home/durgesh/Desktop/res/Echo/app/src/main/AndroidManifest.xml

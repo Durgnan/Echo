@@ -1,0 +1,4 @@
+#Wed Nov 07 10:48:27 IST 2018
+base.0=/home/durgesh/Desktop/res/Echo/app/build/intermediates/transforms/dexMerger/debug/1
+path.0=classes.dex
+renamed.0=classes.dex
